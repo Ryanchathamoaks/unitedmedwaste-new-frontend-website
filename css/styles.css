@@ -75,8 +75,8 @@ h3 { font-size: 1.3rem; }
 .logo-marquee::before, .logo-marquee::after { content: ""; position: absolute; top: 0; bottom: 0; width: clamp(2rem, 8vw, 7rem); z-index: 1; pointer-events: none; }
 .logo-marquee::before { left: 0; background: linear-gradient(90deg, var(--white), transparent); }
 .logo-marquee::after { right: 0; background: linear-gradient(270deg, var(--white), transparent); }
-.logo-track { display: flex; align-items: center; width: max-content; gap: clamp(2.5rem, 6vw, 5rem); animation: logo-scroll 34s linear infinite; }
-.logo-track img { width: clamp(112px, 12vw, 180px); height: 58px; object-fit: contain; opacity: .42; filter: grayscale(1) contrast(.72); transition: opacity .2s ease, filter .2s ease, transform .2s ease; }
+.logo-track { display: flex; align-items: center; width: max-content; gap: clamp(3rem, 7vw, 6rem); animation: logo-scroll 52s linear infinite; }
+.logo-track img { width: clamp(150px, 16vw, 240px); height: 78px; object-fit: contain; opacity: .46; filter: grayscale(1) contrast(.76); transition: opacity .2s ease, filter .2s ease, transform .2s ease; }
 .logo-track img:hover { opacity: .78; filter: grayscale(1) contrast(.9); transform: translateY(-1px); }
 @keyframes logo-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 .section, .article-layout { padding: clamp(3rem, 6vw, 5rem) clamp(1rem, 4vw, 2.5rem); }
