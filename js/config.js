@@ -7,7 +7,6 @@ const CONFIG = {
     submitContact: "/functions/v1/submit-contact",
     siteChat: "/functions/v1/site-chat"
   },
-  CONTACT_ENDPOINT: "https://PLACEHOLDER-worker-url/contact",
-  PHONE: "508-234-2400"
+  CONTACT_ENDPOINT: "https://PLACEHOLDER-worker-url/contact"
 };
 window.CONFIG = CONFIG;

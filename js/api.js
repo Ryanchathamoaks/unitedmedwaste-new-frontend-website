@@ -10,7 +10,7 @@ const API = (() => {
     });
     const payload = await response.json().catch(() => ({}));
     if (!response.ok || payload.success === false) {
-      throw new Error(payload.error || "Request failed. Please call " + CONFIG.PHONE + ".");
+      throw new Error(payload.error || "Request failed. Please use the contact page and try again.");
     }
     return payload;
   }

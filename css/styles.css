@@ -44,8 +44,6 @@ img { max-width: 100%; height: auto; display: block; }
 .header-quote:hover { transform: translateY(-2px); box-shadow: 0 8px 30px -8px rgba(0,72,18,.28); }
 .header-schedule:hover { transform: translateY(-2px); box-shadow: 0 8px 30px -8px rgba(0,0,0,.28); }
 .button-light { background: var(--white); color: #0a3527; border-color: rgba(255,255,255,.7); }
-.header-phone { display: grid; gap: .03rem; padding: .36rem .72rem; border-left: 1px solid rgba(255,255,255,.22); color: var(--white); font-family: Montserrat, Inter, ui-sans-serif, system-ui, sans-serif; font-weight: 900; font-size: .92rem; line-height: 1.04; white-space: nowrap; text-decoration: none; }
-.header-phone span { color: rgba(255,255,255,.7); font-size: .6rem; font-weight: 850; letter-spacing: .08em; text-transform: uppercase; }
 .button { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: .75rem 1rem; border-radius: var(--radius); border: 1px solid transparent; font-weight: 800; text-decoration: none; cursor: pointer; font-size: .95rem; line-height: 1.1; }
 .button-accent { background: var(--gold); color: var(--ink); }
 .button-primary, .button-secondary { background: var(--forest-green); color: var(--white); }
@@ -357,8 +355,7 @@ summary { cursor: pointer; font-weight: 900; color: var(--forest-green); }
   .dropdown-menu a { padding: .32rem 0; color: rgba(255,255,255,.72); font-size: .88rem; }
   .dropdown-menu a:hover, .dropdown-menu a:focus-visible { background: transparent; color: var(--gold); }
   .header-actions { padding: .75rem 0 1rem; border-top: 1px solid rgba(255,255,255,.18); gap: .7rem; }
-  .header-actions .button, .header-phone { width: 100%; justify-content: center; min-height: 48px; text-align: center; }
-  .header-phone { border: 1px solid rgba(255,255,255,.28); border-radius: var(--radius); }
+  .header-actions .button { width: 100%; justify-content: center; min-height: 48px; text-align: center; }
 }
 @media (max-width: 1100px) {
   .card-grid, .mini-card-grid, .service-detail-grid, .location-detail-section .mini-card-grid, .location-main-content .mini-card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
