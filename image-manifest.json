@@ -1,0 +1,1352 @@
+[
+  {
+    "filename": "assets/icons/phone.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "phone icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/location-pin.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "location pin icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/calendar-schedule.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "calendar schedule icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/checkmark.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "checkmark icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/shield-compliance.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "shield compliance icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/document-manifest.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "document manifest icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/truck.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "truck icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/sharps-container.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "sharps container icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/biohazard.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "biohazard icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/clock-24-7.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "clock 24 7 icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/chevron.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "chevron icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/hamburger-menu.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "hamburger menu icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/close-x.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "close x icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/chat-bubble.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "chat bubble icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/send-arrow.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "send arrow icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/training.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "training icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/audit.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "audit icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/icons/container.png",
+    "dimensions": {
+      "width": 128,
+      "height": 128
+    },
+    "alt": "container icon",
+    "prompt": "Flat two-tone line icon, forest green #004812 primary and gold #B38807 accent, transparent background, centered on a 64x64 grid with consistent stroke weight, no text, no shadows, no gradients."
+  },
+  {
+    "filename": "assets/images/ai-new/3aa28553-2ad2-41cf-82ef-cede415d1216.webp",
+    "dimensions": {
+      "width": 760,
+      "height": 520
+    },
+    "alt": "ai new 3aa28553 2ad2 41cf 82ef cede415d1216",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/home-hero.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new home hero",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/industry-clinics.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new industry clinics",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/industry-dental-practices.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new industry dental practices",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/industry-hospitals.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new industry hospitals",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/industry-labs.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new industry labs",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/industry-long-term-care.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new industry long term care",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/industry-pharmacies.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new industry pharmacies",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/industry-universities.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new industry universities",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/industry-veterinary.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new industry veterinary",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-benefits-of-medical-waste-segregation.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero benefits of medical waste segregation",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-biohazard-waste-disposal-boston.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero biohazard waste disposal boston",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-biohazard-waste-disposal-healthcare-settings.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero biohazard waste disposal healthcare settings",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-blood-body-fluid-spill-cleanup-checklist.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero blood body fluid spill cleanup checklist",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-centralized-medical-waste-billing-multi-site.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero centralized medical waste billing multi site",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-connecticut-medical-waste-disposal.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero connecticut medical waste disposal",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-costs-and-dangers-of-medical-waste.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero costs and dangers of medical waste",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-cradle-to-grave-system.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero cradle to grave system",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-dental-medical-waste-disposal-amalgam.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero dental medical waste disposal amalgam",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-dialysis-needles-safety-guide.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero dialysis needles safety guide",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-disposal-of-biohazardous-waste-tips.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero disposal of biohazardous waste tips",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-dispose-of-sharps.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero dispose of sharps",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-dot-medical-waste-training.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero dot medical waste training",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-effects-of-medical-waste-on-the-environment.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero effects of medical waste on the environment",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-epa-sharps-disposal-rules.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero epa sharps disposal rules",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-evergreen-clause.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero evergreen clause",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-expired-medication-disposal-clinics.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero expired medication disposal clinics",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-hazard-communication-program.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero hazard communication program",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-hazardous-vs-non-hazardous-pharmaceutical-waste.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero hazardous vs non hazardous pharmaceutical waste",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-hazardous-waste-disposal-experts.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero hazardous waste disposal experts",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-hazardous-waste-management-healthcare-facilities-new-england.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero hazardous waste management healthcare facilities new england",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-healthcare-compliance-training-for-employees.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero healthcare compliance training for employees",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-healthcare-compliance-training-guide.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero healthcare compliance training guide",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-healthcare-waste-solutions-for-healthcare-facilities.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero healthcare waste solutions for healthcare facilities",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-healthcare-workplace-safety-standards.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero healthcare workplace safety standards",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-hipaa-compliance-requirements-2025.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero hipaa compliance requirements 2025",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-hospital-medical-waste-disposal-contracts.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero hospital medical waste disposal contracts",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-how-to-achieve-zero-waste-to-landfill.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero how to achieve zero waste to landfill",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-how-to-reduce-medical-waste.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero how to reduce medical waste",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-identifying-efficient-medical-waste-pickup.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero identifying efficient medical waste pickup",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-importance-of-healthcare-waste-management.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero importance of healthcare waste management",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-key-to-success-for-hipaa-compliance.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero key to success for hipaa compliance",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-laboratory-waste-disposal-massachusetts.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero laboratory waste disposal massachusetts",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-disposal-boston-provider-checklist.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste disposal boston provider checklist",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-disposal-maine.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste disposal maine",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-disposal-massachusetts.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste disposal massachusetts",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-disposal-new-england-compliance-guide.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste disposal new england compliance guide",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-disposal-new-england-states.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste disposal new england states",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-disposal-new-england.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste disposal new england",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-disposal-new-hampshire.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste disposal new hampshire",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-disposal-rhode-island.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste disposal rhode island",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-disposal-vermont.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste disposal vermont",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-management-ambulatory-surgery-centers.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste management ambulatory surgery centers",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-management-for-clinics-and-physicians.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste management for clinics and physicians",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-management-for-clinics-physicians.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste management for clinics physicians",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-management-plan.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste management plan",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-pickup-services-small-practices.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste pickup services small practices",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-provider-requirements-by-state.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste provider requirements by state",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-services-quotes.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste services quotes",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-medical-waste-treatment-technologies.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero medical waste treatment technologies",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-multi-site-medical-waste-services.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero multi site medical waste services",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-needlestick-injury-response-osha-requirements.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero needlestick injury response osha requirements",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-new-england-waste-disposal.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero new england waste disposal",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-osha-bloodborne-pathogens-compliance-checklist.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero osha bloodborne pathogens compliance checklist",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-osha-standards-for-medical-offices.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero osha standards for medical offices",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-pathological-waste-disposal-new-england.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero pathological waste disposal new england",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-pharmaceutical-waste-types.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero pharmaceutical waste types",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-proper-medical-waste-management.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero proper medical waste management",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-protect-patients-and-staff.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero protect patients and staff",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-rcra-hazardous-waste-management-training.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero rcra hazardous waste management training",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-regulated-medical-waste-pickup-schedule.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero regulated medical waste pickup schedule",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-reviewing-exposure-control-plans.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero reviewing exposure control plans",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-sharps-containers-disposal.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero sharps containers disposal",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-sharps-disposal-near-me.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero sharps disposal near me",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-sharps-faq.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero sharps faq",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-standard-approaches-to-waste-disposal.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero standard approaches to waste disposal",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-transporting-medical-waste.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero transporting medical waste",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-waste-compliance-training-preparation-guide.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero waste compliance training preparation guide",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-waste-management-contract-faq.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero waste management contract faq",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-waste-management-contract-red-flags.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero waste management contract red flags",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-waste-management-contract-terms.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero waste management contract terms",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-waste-stream-management.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero waste stream management",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-what-are-the-4-categories-of-hazardous-waste.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero what are the 4 categories of hazardous waste",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-what-is-an-autoclave.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero what is an autoclave",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-what-is-opim.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero what is opim",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-what-is-regulated-medical-waste.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero what is regulated medical waste",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-where-to-dispose-of-each-type-of-waste.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero where to dispose of each type of waste",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-why-is-proper-waste-disposal-important-in-a-lab-setting.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero why is proper waste disposal important in a lab setting",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/insights/hero-work-practice-controls.png",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new insights hero work practice controls",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-boston.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new location boston",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-boston.webp",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new location boston",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-cape-cod.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new location cape cod",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-cape-cod.webp",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new location cape cod",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-hartford.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new location hartford",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-hartford.webp",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new location hartford",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-inline-boston.webp",
+    "dimensions": {
+      "width": 1440,
+      "height": 810
+    },
+    "alt": "ai new location inline boston",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-inline-cape-cod.webp",
+    "dimensions": {
+      "width": 1440,
+      "height": 810
+    },
+    "alt": "ai new location inline cape cod",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-inline-hartford.webp",
+    "dimensions": {
+      "width": 1440,
+      "height": 810
+    },
+    "alt": "ai new location inline hartford",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-inline-providence.webp",
+    "dimensions": {
+      "width": 1440,
+      "height": 810
+    },
+    "alt": "ai new location inline providence",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-inline-worcester.webp",
+    "dimensions": {
+      "width": 1440,
+      "height": 810
+    },
+    "alt": "ai new location inline worcester",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-providence.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new location providence",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-providence.webp",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new location providence",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-worcester.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new location worcester",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/location-worcester.webp",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "ai new location worcester",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/page-about.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new page about",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/page-contact.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new page contact",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/page-customer-portal.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new page customer portal",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/page-insights.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new page insights",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/page-quote.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "ai new page quote",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/process-cradle-to-grave.png",
+    "dimensions": {
+      "width": 1983,
+      "height": 793
+    },
+    "alt": "ai new process cradle to grave",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/service-compliance-training.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new service compliance training",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/service-medical-waste-collection.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new service medical waste collection",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/service-pharmaceutical-waste.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new service pharmaceutical waste",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/service-sharps-management.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new service sharps management",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/ai-new/service-waste-audits.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "alt": "ai new service waste audits",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/cradle-to-grave-process.png",
+    "dimensions": {
+      "width": 1983,
+      "height": 793
+    },
+    "alt": "cradle to grave process",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/favicon.png",
+    "dimensions": {
+      "width": 0,
+      "height": 0
+    },
+    "alt": "favicon",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/hero-united-logo-branded.png",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "alt": "hero united logo branded",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-42-north-dental.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo 42 north dental",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-agilent.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo agilent",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-berkshire.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo berkshire",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-beth-israel.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo beth israel",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-boston-college.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo boston college",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-brown.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo brown",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-crma.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo crma",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-elliot-health.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo elliot health",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-kindred.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo kindred",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-massachusetts.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo massachusetts",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-northeastern.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo northeastern",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-partners.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo partners",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/logos/logo-storz.png",
+    "dimensions": {
+      "width": 800,
+      "height": 327
+    },
+    "alt": "logos logo storz",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  },
+  {
+    "filename": "assets/images/testimonial-admin.webp",
+    "dimensions": {
+      "width": 1400,
+      "height": 788
+    },
+    "alt": "testimonial admin",
+    "prompt": "Photorealistic professional medical waste services imagery for United Medical Waste, clean clinical or New England healthcare setting, forest green and gold brand accents where natural, no rendered text."
+  }
+]
