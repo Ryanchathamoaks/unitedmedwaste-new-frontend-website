@@ -12,11 +12,11 @@
 
 The new site is a static build (HTML, CSS, vanilla JS). It is structurally ready for the backend but currently runs fully disconnected. All backend calls are centralized in `js/api.js` and gated by a single flag in `js/config.js`. Until connection, the following are true:
 
-**All lead capture is dormant — including contact.**
+**All lead capture is dormant, including contact.**
 
 - All three form paths (Contact, Full Quote, Quick Start Quote) are in stub mode. They validate and show a success message to the user, but nothing is sent and no records are created anywhere.
 - The Contact form stub is caused by `CONTACT_ENDPOINT` still being set to `"https://PLACEHOLDER-worker-url/contact"` in `config.js`. The `isPlaceholder()` check in `api.js` catches this and returns a fake success before any network call is made.
-- The Cloudflare Worker code (`cloudflare-worker/contact-worker.js`) is fully written and correct — CORS handling, input validation, honeypot check, Resend integration, HTML escaping — but it has not been deployed, and its URL has not been filled into `config.js`. Deploying the Worker and updating `CONTACT_ENDPOINT` is the only step needed to make contact live.
+- The Cloudflare Worker code (`cloudflare-worker/contact-worker.js`) is fully written and correct (CORS handling, input validation, honeypot check, Resend integration, HTML escaping) but it has not been deployed, and its URL has not been filled into `config.js`. Deploying the Worker and updating `CONTACT_ENDPOINT` is the only step needed to make contact live.
 - The Full Quote and Quick Start Quote forms are gated by `BACKEND_ENABLED: false`. They validate and show a mock reference (`QUOTE-MOCK`) but do not create deals, do not run the quote-matcher, and do not reach Pipedrive.
 - Net effect: zero revenue-generating or lead-capture function is active.
 
@@ -53,18 +53,18 @@ The frontend was built so the connection is a configuration change, not a rebuil
 
 **Step 1. Configure.** In `config.js`, fill in:
 
-- `SUPABASE_URL` — your Supabase project URL
-- `SUPABASE_ANON_KEY` — your Supabase anon key
-- `CONTACT_ENDPOINT` — the deployed Cloudflare Worker URL (e.g., `https://your-worker.workers.dev/contact`)
+- `SUPABASE_URL`: your Supabase project URL
+- `SUPABASE_ANON_KEY`: your Supabase anon key
+- `CONTACT_ENDPOINT`: the deployed Cloudflare Worker URL (e.g., `https://your-worker.workers.dev/contact`)
 
 The edge function paths (`submit-quote`, `submit-contact`, `site-chat`) are already set correctly and do not need to change.
 
 **Step 2. Deploy the Cloudflare Worker.** The Worker code is ready in `cloudflare-worker/contact-worker.js`. Deploy it to Cloudflare Workers and set the following environment variables on the Worker:
 
 - `RESEND_API_KEY`
-- `CONTACT_TO` — the receiving email address
-- `CONTACT_FROM` — the verified sender address in Resend
-- `ALLOWED_ORIGIN` — set to `https://unitedmedwaste.com` for production
+- `CONTACT_TO`: the receiving email address
+- `CONTACT_FROM`: the verified sender address in Resend
+- `ALLOWED_ORIGIN`: set to `https://unitedmedwaste.com` for production
 
 Once deployed, paste the Worker URL into `CONTACT_ENDPOINT` in `config.js`. This makes the contact form live independently of the Supabase backend.
 
